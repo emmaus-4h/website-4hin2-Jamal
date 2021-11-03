@@ -3,9 +3,9 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: #EEEEEE;  
+    background-color: rgb(50,55,70);  
     
-    color: #303030;
+    color: rgb(190,185,255);
     font: Verdana, Arial, Sans-Serif;
 }
 
@@ -23,7 +23,7 @@ article {
 
 
 header {
-    color: skyblue;
+    color: rgb(125,125,255);
     text-align: center;
 }
 
