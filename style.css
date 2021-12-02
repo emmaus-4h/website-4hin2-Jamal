@@ -55,6 +55,16 @@ a:hover {
 }
 
 
+.afbeeldingwiskunde{
+  height:250px ;
+  width: 190px;
+  float: right;
+}
+
+.wiskundetext{
+  text-align: left;
+}
+
 /* navigatiebalk */
 nav ul {
     list-style-type: none;
