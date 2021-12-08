@@ -93,7 +93,11 @@ nav li a:hover {
 nav li a.active {
     background-color: skyblue;
 }
-
+.wiskunde_1 { border: 7px outset red;
+  background-color: rgb(26, 88, 109);
+  text-align: center; 
+  margin-top: 22px;
+  }
 
 
 
