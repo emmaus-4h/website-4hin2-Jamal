@@ -41,6 +41,12 @@ img.zweefLinks {
     margin-right: 15px;
 }
 
+img.lol{
+  width:50px;
+}
+
+
+
 .smalltext {
     font-size: 0.7em;
 }
@@ -126,8 +132,4 @@ nav li a.active {
 .wiskunde_3 {
   float: left;
 }
-img.navbalhaar{
-  height:20px ;
-  width: 20px;
-  
-}
+
