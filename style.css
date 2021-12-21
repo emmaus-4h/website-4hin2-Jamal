@@ -3,9 +3,9 @@
 html, body {
     height: 100%;
     padding: 0;
-    background-color: rgb(50,55,70);  
+    background-color: rgb(25,25,40);  
     
-    color: rgb(190,185,255);
+    color: rgb(125,125,255);
     font: Verdana, Arial, Sans-Serif;
 }
 
@@ -65,17 +65,23 @@ a:hover {
   text-align: left;
 }
 
+
 /* navigatiebalk */
 nav ul {
     list-style-type: none;
-    margin: auto;
+    margin: 2;
     padding: 0;
-    background-color: #dddddd;
+    background-color:rgb(25,25,40);
     overflow: hidden;
-}
-
-nav ul li {
     float: left;
+    
+    }
+
+li {
+  display: vertical
+}
+nav ul li {
+    float: bottom
 }
 
 nav li a {
@@ -93,11 +99,35 @@ nav li a:hover {
 nav li a.active {
     background-color: skyblue;
 }
-.wiskunde_1 { border: 7px outset red;
+.wiskunde_1 { border: 7px inset red;
   background-color: rgb(26, 88, 109);
   text-align: center; 
   margin-top: 22px;
   }
-
-
-
+.wiskundekleur {
+    background-color: red;
+    text-decoration: none;
+}
+.informaticakleur{
+    background-color:purple;
+    text-decoration: none;
+}
+.biologiekleur{
+    background-color:green;
+    text-decoration: none;
+}
+.natuurkundekleur{
+    background-color:rgb((40, 160, 255);
+    text-decoration: none;
+}
+.natuurkundekleur:hover { 
+ background-color: rgb(1, 88, 0)
+}
+.wiskunde_3 {
+  float: left;
+}
+img.navbalhaar{
+  height:20px ;
+  width: 20px;
+  
+}
