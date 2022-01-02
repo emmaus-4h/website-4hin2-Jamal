@@ -71,8 +71,20 @@ a:hover {
   text-align: left;
   width: 630px;
   float: right;
+  border: 7px inset red;
+  background-color: rgb(26, 88, 109);
+  text-align: center; 
+  margin-top: 22px;
 }
-
+.wiskunde_2{
+   text-align: left;
+  width: 630px;
+  float: right;
+  border: 7px inset red;
+  background-color: rgb(26, 88, 109);
+  text-align: center; 
+  margin-top: 22px;
+}
 
 /* navigatiebalk */
 nav ul {
@@ -107,11 +119,7 @@ nav li a:hover {
 nav li a.active {
     background-color: rgb(255, 255, 255);
 }
-.wiskunde_1 { border: 7px inset red;
-  background-color: rgb(26, 88, 109);
-  text-align: center; 
-  margin-top: 22px;
-  }
+
 .wiskundekleur {
     background-color: red;
     text-decoration: none;
